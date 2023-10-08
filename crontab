@@ -1,0 +1,2 @@
+*/1 * * * * /usr/local/bin/run_python.sh
+@reboot /usr/local/bin/run_python.sh >> /var/log/run_python.log
