@@ -2,7 +2,7 @@
 
 #### Chaingence
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/dpedwards/dotnet-core-blockchain-advanced/master/LICENSE)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
 [![Python 3](https://img.shields.io/badge/python-yellow.svg)](https://www.python.org/downloads/)
 [![Cloudflare](https://img.shields.io/badge/cloudflare-red.svg)](https://www.cloudflare.com/)
 [![Cloudflare API](https://img.shields.io/badge/cloudflare-api-red.svg)](https://developers.cloudflare.com/api/)
