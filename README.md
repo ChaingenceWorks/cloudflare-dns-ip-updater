@@ -46,7 +46,6 @@ pip install -r requirements.txt
 ```
 pip install --upgrade pip
 pip install datetime
-pip install os
 pip install requests
 pip install python-dotenv
 ```
